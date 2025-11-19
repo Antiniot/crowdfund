@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { Reward } from '../types'
 const iconCloseModal = '/images/icon-close-modal.svg'
-const iconCheck = '/images/icon-check.svg'
+
 
 interface PledgeModalProps {
   rewards: Reward[]
